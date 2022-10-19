@@ -1,0 +1,16 @@
+.imggg{
+    width: 60px;
+    height: 60px;
+}
+/*si queres cambiar el color de fondo hay que borrar el bg-light 
+del html y ahi pones el color que quieras, sino no se cambia el color*/
+header nav{
+    background-color: rgb(35, 44, 44);
+}
+i{
+    font-size: 15px;
+    color: red;
+}
+i:hover{
+    color: blue;
+}
